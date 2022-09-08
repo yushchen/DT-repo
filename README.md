@@ -10,4 +10,4 @@ I hope to learn how to leverage visualizations to improve the decision-making pr
 # Portfolio
 Here's where you can access all my work. Please continue scrolling to take a look! 
 
-Goverment debt/dataviz2.md
+Goverment debt(/dataviz2.md)
