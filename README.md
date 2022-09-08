@@ -9,4 +9,4 @@ I hope to learn how to leverage visualizations to improve the decision-making pr
 
 # Portfolio
 Here's where you can access all my work. Please continue scrolling to take a look! 
-[dataviz2](/dataviz2.md)
+([/dataviz2.md](https://yushchen.github.io/DT-repo/dataviz2))
