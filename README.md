@@ -9,7 +9,9 @@ I hope to learn how to leverage visualizations to improve the decision-making pr
 
 # Portfolio
 Here's where you can access all my work. Please continue scrolling to take a look! 
+
+Government debt by country in 2019
 ([/dataviz2.md](https://yushchen.github.io/DT-repo/dataviz2))
 
-Here's my GDP-to-Debt ratio grid line charts
+GDP debt ratio by country from 1995 to 2021
 <div class="flourish-embed flourish-chart" data-src="visualisation/11146828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
