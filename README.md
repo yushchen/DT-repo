@@ -11,13 +11,13 @@ I hope to learn how to leverage visualizations to improve the decision-making pr
 Here's where you can access all my work. Please continue scrolling to take a look! 
 
 # Visualizing government debt 
-1. General government debt as % of GDP in 2019
+1）General government debt as % of GDP in 2019
 ([/dataviz2.md](https://yushchen.github.io/DT-repo/dataviz2))
 
-2. General government debt as % of GDP by different countries 
+2）General government debt as % of GDP by different countries 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11146828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-3. General government debt as % of GDP by year
+3) General government debt as % of GDP by year
 <div class="flourish-embed flourish-chart" data-src="visualisation/11149283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Comments
