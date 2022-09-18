@@ -1,6 +1,6 @@
 # Critique by Design
 
-1. Critique on existing visualization (https://www.nytimes.com/interactive/2022/05/24/us/texas-school-shooting-deaths.html)
+# Critique on existing visualization (https://www.nytimes.com/interactive/2022/05/24/us/texas-school-shooting-deaths.html)
 
 ![Mass Shooting_nyt](https://user-images.githubusercontent.com/112817162/190920349-98df046d-7ebc-45cc-8235-00371649ad19.JPG)
 
@@ -10,7 +10,7 @@ If I were the author of the visualization, I’d keep the map as the basis but a
 
 The primary audience for this visualization would be the general public, especially people who are interested in knowing more about school-related mass shooting situations in the US. I think this visualization is effective in providing a high-level history; nonetheless, it lacks focus to reflect the “deadliest” occasion based on the visualization’s header, which could lead to information overload. 
 
-2. Revised Visulization
+# Visualization Updates
 
 1) Sketch 
 ![Rough Sketch](https://user-images.githubusercontent.com/112817162/190920548-a1f0e9b5-270e-43d6-9cd2-fabb8e787555.jpg)
@@ -45,7 +45,7 @@ Interviewee: student, mid 20s
   I'd make the color change based on the number of casulties as well, aside from the size of the bubble just to make the visualization more visually indicative. 
 
 
-3 Visualization
+# Revised Visualization
 
 Based on the feedback, I removed information, such as year and city from my original sketch to highlight the most important piece of information, which is the casulties of each shooting. Year and city information are added to the tooltips so they are still available in case users are interested in further exploration. In addition, I incorporated a gradient color scheme to further highlight the level of severity of each mass shooting. Besides, I added a slider as filter that allows users to understand the scope of mass shootings over the years. 
 
