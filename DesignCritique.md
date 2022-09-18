@@ -13,8 +13,7 @@ The primary audience for this visualization would be the general public, especia
 2. Revised Visulization
 
 1) Sketch 
-
-![Rough Sketch](https://user-images.githubusercontent.com/112817162/190920520-b58b32f5-4e98-4ad7-b1bc-39106f771b14.jpg)
+![Rough Sketch](https://user-images.githubusercontent.com/112817162/190920548-a1f0e9b5-270e-43d6-9cd2-fabb8e787555.jpg)
 
 
 2) Interview
