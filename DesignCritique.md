@@ -1,7 +1,8 @@
 # Critique by Design
 
 1. Critique on existing visualization (https://www.nytimes.com/interactive/2022/05/24/us/texas-school-shooting-deaths.html)
-![image](https://user-images.githubusercontent.com/112817162/190882699-020dd0fe-ceb3-42d0-a725-183427743ed6.png)
+
+![Mass Shooting_nyt](https://user-images.githubusercontent.com/112817162/190920349-98df046d-7ebc-45cc-8235-00371649ad19.JPG)
 
 The vastness of active school shooting incidents over the US really stood out to me as they are spread all over the map. In addition, the death tolls of those incidents are indicated in big fonts and highlighted in dark red, further emphasizing the somber nature of mass shootings. 
 However, the visualization could also contribute to information overload as information related to each mass shooting event, from year to location to the death toll are treated equally. Even though there’s a lot of information, there is a lack of focus based on the title, “Deadliest active shooter attacks at schools since 1970” as readers have to filter through all the information across the map to realize the deadliest event that took place in Newtown, CT. 
@@ -13,10 +14,10 @@ The primary audience for this visualization would be the general public, especia
 
 1) Sketch 
 
+![Rough Sketch](https://user-images.githubusercontent.com/112817162/190920520-b58b32f5-4e98-4ad7-b1bc-39106f771b14.jpg)
 
 
-
-2)Interview
+2) Interview
 
 2.1) 
 Interviewee: student, mid 20s
