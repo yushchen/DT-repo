@@ -25,4 +25,4 @@ Comments
 Grid line chart is used for the 2nd visualization where a holistic representation of the debt situation by country is required. It also provides a sense of progression of the debt as % of GDP over time. 
 
 # Visualization Critique
-([/DesignCritique.md](https:/yushchen.github.io/DT-repo/DesignCritique))
+[DesignCritique.md](https://yushchen.github.io/DT-repo/DesignCritique)
