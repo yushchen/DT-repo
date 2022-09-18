@@ -24,5 +24,5 @@ Comments
 - Column chart types are used in the 1st and 3rd visualizations. It's the best when used towards ranking and comparing variables to one another. The 3rd visualization is built on top of the 1st as it enables users to toggle between different years to have a holistic understanding about the government debt situation. 
 Grid line chart is used for the 2nd visualization where a holistic representation of the debt situation by country is required. It also provides a sense of progression of the debt as % of GDP over time. 
 
-# Visualization Critique
+# Design Critique
 [DesignCritique.md](https://yushchen.github.io/DT-repo/DesignCritique)
