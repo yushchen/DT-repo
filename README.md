@@ -27,3 +27,5 @@ Grid line chart is used for the 2nd visualization where a holistic representatio
 # Design Critique
 [DesignCritique.md](https://yushchen.github.io/DT-repo/DesignCritique)
 
+# Final Proj Pt.1
+[final_proj_yusheng2.md](https://yushchen.github.io/DT-repo/final_proj_yusheng2)
