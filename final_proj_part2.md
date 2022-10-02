@@ -8,12 +8,12 @@ Approach to identifying representative individuals to interivew:
 - Ask them about their understanding of nuclear energy and engage if the answer is vague/unclear
 - Ensure the people who I plan to engage are interested in knowing more about nuclear energy 
 
-Your interview script:
+**Your interview script:**
 - Schedule a 1x1 Zoom call with individuals defined by the above criteria
 - Walk them through the Shorthand website  
 - Focus on the last part which involves action steps and get feedback from interviewees
 
-Findings from your interviews (3 interviewees):
+**Findings from your interviews (3 interviewees):**
 1) History section: 
 - Text description doesn't include information on the attached visualization
 - Visualization title doesn't provide much value to the context 
@@ -27,7 +27,7 @@ Findings from your interviews (3 interviewees):
 - Clear title and chart color
 - Need to provide information on technical terms, such as greenhouse emission and capacity factor
 
-Changes I plan on implementing
+**Changes I plan on implementing**
 - Integrate description of the visualization into main text
 - Have a better transition through different sections
 - Provide more context of the importance of nuclear based on comparisons with other energy sources 
