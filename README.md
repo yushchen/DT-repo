@@ -29,3 +29,6 @@ Grid line chart is used for the 2nd visualization where a holistic representatio
 
 # Final Proj Pt.1
 [final_proj_yusheng2.md](https://yushchen.github.io/DT-repo/final_proj_yusheng2)
+
+# Final Proj Pt.2
+[final_proj_part2.md](https://yushchen.github.io/DT-repo/final_proj_part2)
