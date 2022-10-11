@@ -14,3 +14,6 @@
 - More and more people are starting to question the status quo of the stagnating number of nuclear reactors in the US, primarily driven by the 
 energy crisis that's been going on in Europe. 
 - Based on my interviews, most of the opponents to nuclear energy cited reasons like safety concerns but after I provided specific evidence, they were quite surprised by how safe nuclear energy is. I hope such education could take place more frequently as a lot of people in the US are still living under the fear of three mile island and Fukushima incidents, which are preventable. 
+
+# Final Data Story
+https://carnegiemellon.shorthandstories.com/usnuclear/index.html
