@@ -1,14 +1,14 @@
 # Final Data Story
 
 # Changes I've made since the completion of Part II
-- Updated the visualization that tracks the number of nuclear reactors built in the US
-1) Expand the view in Shorthand in order to fit the size of the visualization
-2) Highlight the trend while providing more context on cut-off points, such as the peak, the plateau afterwards, etc.
-- Changed the color scheme of the visualization that compares and contrasts crude oil and nuclear energy
-1) Used the color red for crude oil and green for nuclear energy, signaling their environmental-friendliness 
-- Expanded write-ups in the call to action section 
-1) Researched nuclear advocacy groups
-2) Stressed the importance of working with legislators as those are the ones influencing the current/future of nuclear reactor development in the US
+1) Updated the visualization that tracks the number of nuclear reactors built in the US
+- Expand the view in Shorthand in order to fit the size of the visualization
+- Highlight the trend while providing more context on cut-off points, such as the peak, the plateau afterwards, etc.
+2) Changed the color scheme of the visualization that compares and contrasts crude oil and nuclear energy
+- Used the color red for crude oil and green for nuclear energy, signaling their environmental-friendliness 
+3) Expanded write-ups in the call to action section 
+- Researched nuclear advocacy groups
+- Stressed the importance of working with legislators as those are the ones influencing the current/future of nuclear reactor development in the US
 
 # Findings along the way:
 More and more people are starting to question the status quo of the stagnating number of nuclear reactors in the US, primarily driven by the 
