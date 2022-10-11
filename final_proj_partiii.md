@@ -19,7 +19,7 @@ energy crisis that's been going on in Europe.
 https://carnegiemellon.shorthandstories.com/usnuclear/index.html
 
 # Sources
-                                 
+                    
 Backgrounder on the Three Mile Island Accident | Nrc.gov. https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html.
 
 “Fukushima Daiichi Accident.” Fukushima Daiichi Accident - World Nuclear Association, https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/fukushima-daiichi-accident.aspx.
