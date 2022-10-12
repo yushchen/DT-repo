@@ -5,14 +5,14 @@ This is my portfolio for Telling Stories with Data at CMU
 I am a master's student at Heinz College.
 
 # What I hope to learn
-I hope to learn how to leverage visualizations to improve the decision-making process
+I hope to learn how to leverage visualizations to improve the decision-making process.
 
 # Portfolio
 Here's where you can access all my work. Please continue scrolling to take a look! 
 
 # Visualizing government debt 
 -General government debt as % of GDP in 2019
-([/dataviz2.md](https://yushchen.github.io/DT-repo/dataviz2))
+([dataviz2.md](https://yushchen.github.io/DT-repo/dataviz2))
 
 -General government debt as % of GDP by different countries 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11146828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
